@@ -1,0 +1,16 @@
+PODS:
+  - qotd (0.1.0)
+
+DEPENDENCIES:
+  - qotd (from `../`)
+
+EXTERNAL SOURCES:
+  qotd:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  qotd: 6f106761c191662f82fec3b94c4d7ccb25184159
+
+PODFILE CHECKSUM: 4eadc189d01e05172a869419ba8001f6f6beec5c
+
+COCOAPODS: 1.10.0

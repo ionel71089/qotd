@@ -1,0 +1,6 @@
+framework module Pods_qotd_Tests {
+  umbrella header "Pods-qotd_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

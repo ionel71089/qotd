@@ -1,0 +1,6 @@
+use_frameworks!
+target 'qotd_Tests' do
+  pod 'qotd', :path => '../'
+  
+  
+end
