@@ -5,4 +5,4 @@ version=`podspec-bump --dump-version`
 git add qotd.podspec
 git commit -m "Release ${version}"
 git tag $version
-git push origin master --tags
+git push origin main --tags
