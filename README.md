@@ -1,6 +1,6 @@
 # qotd
 
-[![CI Status](https://img.shields.io/travis/Lescai, Ionel/qotd.svg?style=flat)](https://travis-ci.org/Lescai, Ionel/qotd)
+[![CI Status](https://travis-ci.org/ionel71089/qotd.svg?branch=main)](https://travis-ci.org/github/ionel71089/qotd)
 [![Version](https://img.shields.io/cocoapods/v/qotd.svg?style=flat)](https://cocoapods.org/pods/qotd)
 [![License](https://img.shields.io/cocoapods/l/qotd.svg?style=flat)](https://cocoapods.org/pods/qotd)
 [![Platform](https://img.shields.io/cocoapods/p/qotd.svg?style=flat)](https://cocoapods.org/pods/qotd)
