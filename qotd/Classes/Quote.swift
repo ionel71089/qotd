@@ -1,5 +1,5 @@
 
 public class Quote {
-    public static let message = "Happy users are happy!"
+    public static let message = "Worked the first time!"
     public static let author = "Ionel"
 }
